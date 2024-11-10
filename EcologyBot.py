@@ -3,7 +3,7 @@ import random, time, threading, schedule
 from bot_logic import gen_pass
 import os
 
-TOKEN = "Ваш токен"
+TOKEN = "TOKEN"
 
 bot = telebot.TeleBot(TOKEN)
     
